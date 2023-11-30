@@ -1,0 +1,41 @@
+/* style.css */
+
+body.modo-normal {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: #f8ffe0;
+    color: #000;
+    line-height: 1.6;
+}
+
+body.modo-escuro {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: #333;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.toggle-mode {
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    background-color: #2E8B57;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3CB371;
+}
+
+/* Adicione mais estilos conforme necessário */
+
+
